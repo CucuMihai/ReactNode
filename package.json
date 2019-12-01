@@ -1,0 +1,26 @@
+{
+  "name": "ReactNodeRoadmap",
+  "version": "1.0.0",
+  "description": "One Paragraph of project description goes here",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc & node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CucuMihai/ReactNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CucuMihai/ReactNode/issues"
+  },
+  "homepage": "https://github.com/CucuMihai/ReactNode#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  }
+}
